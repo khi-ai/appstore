@@ -1,0 +1,14 @@
+additionalProperties:
+    formFields:
+        - default: ./x-ui/
+          edit: true
+          envKey: X_PATH
+          labelEn: X path to the configuration file
+          required: true
+          type: text
+        - default: ./cert
+          edit: true
+          envKey: CERT_PATH
+          labelEn: Cert folder path
+          required: true
+          type: text

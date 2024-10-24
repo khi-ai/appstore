@@ -1,0 +1,19 @@
+name: XUI
+tags:
+    - Tool
+title: A Better X-UI Docker Container Image
+type: Tool
+description: A better-performing X-UI Docker container image
+additionalProperties:
+    key: xui
+    name: XUI
+    tags:
+        - Tool
+    shortDescEn: A better-performing X-UI Docker container image
+    type: tool
+    crossVersionUpdate: false
+    limit: 0
+    recommend: 0
+    website: https://github.com/enwaiax/x-ui
+    github: https://github.com/enwaiax/x-ui
+    document: https://p3terx.com/archives/docker-aria2-pro.html
